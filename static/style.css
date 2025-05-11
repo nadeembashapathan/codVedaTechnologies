@@ -1,12 +1,18 @@
-span{
-    font-weight: bold;
-    color:aquamarine;
-    background-color: black;
+body {
+    font-family: Arial;
+    margin: 40px;
+    background-color: #f9f9f9;
 }
-h2{
-    text-align: center;
+
+ul {
+    list-style-type: none;
+    padding: 0;
 }
-h4{
-    text-decoration: underline;
-    text-decoration-color: red;
+
+li {
+    padding: 5px;
+}
+
+.messages {
+    color: green;
 }
